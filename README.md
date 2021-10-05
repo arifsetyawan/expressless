@@ -14,3 +14,7 @@
     ```shell
     npm run serverless:local
     ```
+
+### Reference 
+- https://www.serverless.com/blog/serverless-express-apis-aws-lambda-http-api/
+- https://www.serverless.com/blog/serverless-express-rest-api/
